@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "x0.2f\n" $NUM
